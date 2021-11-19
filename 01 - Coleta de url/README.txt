@@ -1,0 +1,5 @@
+Esse projeto tem como objetivo ter uma ferramenta que colete os nomes de uma coluna em um arquivo csv e preencha outra coluna no mesmo arquivo csv com o endereço url da imagem, sendo que esse endereço sempre vai ser referente a primeira imagem que aparecer na procura de imagens do google.
+
+Embora simples é importante ressaltar que essa RPA pode ser útil em casos que se deseja utilizar imagens dinâmicas em uma ferramenta de visualização de dados (a extensão simple image do Power BI utiliza esse método), assim a busca pode ser realizada de forma automática e mais rápida que manualmente.
+
+**Obs: Vale ressaltar que como a url copiada será a da primeira imagem pesquisada, portanto podem ocorrer momentos que a imagem pesquisada pode não corresponder com o objetivo da pesquisa, portanto sempre tente manter o safe search do google ativo.
